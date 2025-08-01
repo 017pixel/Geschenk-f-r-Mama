@@ -78,7 +78,8 @@ document.addEventListener('DOMContentLoaded', () => {
             "Für die beste Mama!",
             "Du bist perfekt!",
             "😘",
-            "💕"
+            "💕",
+            "ich habe dich gmz doll lieb, aner ich habe auch hunger, wann gibt es essen?"
         ];
 
         const createMessage = () => {
